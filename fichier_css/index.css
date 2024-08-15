@@ -1,0 +1,50 @@
+body{
+        font-size: 12px;
+        font-family: work sans-serif;
+}
+
+
+.header1,.header2{
+    display: inline-block;
+    width: 45%;
+}
+.header1 img{
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+.header1{
+    padding: 100px;   
+}
+.cursus_scolaire .card {
+    margin : 5px;
+}
+.competence{
+    padding: 10px;
+}
+.competence_div{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+  
+}
+.competence_art, .competence_asid, .competence_img{
+    display: inline-block;
+    width: 350px;
+    
+}
+.competence_img img{
+    width: 45%;
+}
+.centre_art, .centre_asi{
+    display: inline-block;
+    width: 50em;
+}
+span{
+    text-align: center;
+    margin: auto;
+}
+footer{
+    text-align: center;
+    margin: auto;
+}
